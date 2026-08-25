@@ -1,0 +1,2 @@
+Your summary for program in ../../resource/correctJavaPrograms/count-covered-buildings/Solution.java
+Example: The function `countCoveredBuildings` calculates the number of buildings ... [It should be a human-readable, informative, descriptive, natural language description of the function of the program.]

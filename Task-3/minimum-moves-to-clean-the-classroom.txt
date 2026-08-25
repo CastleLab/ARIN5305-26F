@@ -1,0 +1,11 @@
+Bug Description: ...Briefly describe the wrong logic and the reason why it is wrong...
+
+Bug Location: Line xxx, or missing a code between lines yyy and zzz, or line xxx is redundant.
+
+Suggested Patch:
+- xxxxx code
++ yyyyy code
+(Brief explanation of the changes made)
+
+Fixed Version:
+(Put down the whole fixed program.)

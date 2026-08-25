@@ -1,0 +1,1 @@
+// Command to generate tests: java -ea -classpath ${RANDOOP_JAR}:./ randoop.main.Main gentests --testclass=Solution --time-limit=10

@@ -1,0 +1,2 @@
+Your summary for program in ../../resource/correctJavaPrograms/shortest-matching-substring/Solution.java
+Example: The function `shortestMatchingSubstring` finds the shortest substring that contains all characters ... [It should be a human-readable, informative, descriptive, natural language description of the function of the program.]

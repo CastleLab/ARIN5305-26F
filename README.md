@@ -11,4 +11,4 @@
 **Pinned Resources:**
 
 - [FAQ](resource/FAQ.md)
-- [Installing Codex Desktop](resource/Installing%20Codex%20Desktop.md)
+- [Installing Codex](resource/InstallCodex.md)

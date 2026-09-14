@@ -72,7 +72,7 @@ Codex shares its backend system configuration (`~/.codex/config.toml`) across al
 
 2. The relay server `http://sccpu6.cse.ust.hk/v1/` is only accessible within the campus network of HKUST. If you are off-campus, please install [HKUST VPN](https://itso.hkust.edu.hk/services/cyber-security/vpn) to connect to the campus network before using Codex connected to our relay server.
 
-3. You can check the remaining quota of the API key provided by us by visiting [http://sccpu6.cse.ust.hk/](http://sccpu6.cse.ust.hk/) and entering your API key in the input box. Note that the website is also only accessible within the campus network of HKUST or through the HKUST VPN.
+3. **Quota Check:** You can check the remaining quota of the API key we provided by visiting [http://sccpu6.cse.ust.hk/](http://sccpu6.cse.ust.hk/) and entering your API key in the input box. The website is also only accessible within the campus network of HKUST or through the HKUST VPN. Please note that we follow the [official DeepSeek pricing policy](https://api-docs.deepseek.com/quick_start/pricing/) to calculate the quota usage, under which the price is **doubled during peak hours** (9:00-12:00 and 14:00-18:00, Monday to Friday, HKT).
 
 4. When your quota given by us is used up and you want to use your own DeepSeek API official key quota purchased by yourself, please run the original DeepSeek setup script **without the relay server replacement** (command listed below) twice to remove the relay server configuration (using option 9) and set your own DeepSeek API key (using option 1 with your own key), respectively. The original DeepSeek setup script is:
 ```powershell
